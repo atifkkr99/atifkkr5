@@ -1,1 +1,1 @@
-from ULTRAX import NAME, MASTER, BOT
+from atifkkr5 import NAME, MASTER, BOT

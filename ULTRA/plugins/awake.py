@@ -6,7 +6,7 @@ from telethon import events
 from telethon.tl.types import ChannelParticipantsAdmins
 from ULTRA import ALIVE_NAME, StartTime, CMD_HELP
 #from . import legend
-from ULTRAX import BOT, PHOTO, VERSION
+from atifkkr5 import BOT, PHOTO, VERSION
 from ULTRA.utils import admin_cmd, sudo_cmd
 from math import ceil
 import json

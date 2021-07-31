@@ -6,7 +6,7 @@
 
 import asyncio
 import os
-from ULTRAX import BOT, PHOTO, VERSION, MSG
+from atifkkr5 import BOT, PHOTO, VERSION, MSG
 import requests
 import time
 from PIL import Image
@@ -123,7 +123,7 @@ async def wisper(event):
 
 from telethon import events, Button, custom
 import os,re
-from ULTRAX import ID
+from atifkkr5 import ID
 from telethon.tl.custom import Button 
 from telethon import events, errors, custom, functions
 @tgbot.on(events.InlineQuery(pattern=r"restart"))

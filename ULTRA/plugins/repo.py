@@ -3,7 +3,7 @@
 # updated by madboy482
 from telethon import events, Button, custom
 from ULTRA import bot
-from ULTRAX import xbot
+from atifkkr5 import xbot
 # updated by madboy482
 # updated by madboy482
 # updated by madboy482
